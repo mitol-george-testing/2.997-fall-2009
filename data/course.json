@@ -1,0 +1,48 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Atomic, Molecular, Optical Physics"
+    ],
+    [
+      "Engineering",
+      "Materials Science and Engineering",
+      "Electronic Materials"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ],
+    [
+      "Engineering",
+      "Chemical Engineering",
+      "Transport Processes"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Electric Power"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "da41f43b-39d4-7a60-c540-095ebd4f59e3"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Direct Solar/Thermal to Electrical Energy Conversion Technologies",
+  "course_description": "This course introduces principles and technologies for converting heat into electricity via solid-state devices. The first part of the course discusses thermoelectric energy conversion and thermoelectric materials, thermionic energy conversion, and photovoltaics. The second part of the course discusses solar thermal technologies. Various solar heat collection systems will be reviewed, followed by an introduction to the principles of solar thermophotovoltaics and solar thermoelectrics. Spectral control techniques, which are critical for solar thermal systems, will be discussed.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2.997",
+  "learning_resource_types": [
+    "Lecture Audio",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
